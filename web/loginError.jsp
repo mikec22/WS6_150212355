@@ -12,6 +12,9 @@
         <title>Incorrect Password</title>
     </head>
     <body>
-        <% out.println("<a herf=\"" + request.getContextPath() + ""); %>
+        <p>Incorrect Password</p>
+        <p>
+        <% out.println("<a herf=\"" + request.getContextPath() + "/main\">Login again</a>");%> %>
+        </p>
     </body>
 </html>

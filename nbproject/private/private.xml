@@ -3,9 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/Users/Mike/Desktop/WS6_150212355/src/java/ict/db/UserDB.java</file>
             <file>file:/Users/Mike/Desktop/WS6_150212355/web/loginError.jsp</file>
+            <file>file:/Users/Mike/Desktop/WS6_150212355/src/java/ict/Bean/UserInfo.java</file>
+            <file>file:/Users/Mike/Desktop/WS6_150212355/src/java/ict/servlet/LoginController.java</file>
             <file>file:/Users/Mike/Desktop/WS6_150212355/web/login.jsp</file>
+            <file>file:/Users/Mike/Desktop/WS6_150212355/web/welcome.jsp</file>
             <file>file:/Users/Mike/Desktop/WS6_150212355/web/index.jsp</file>
+            <file>file:/Users/Mike/Desktop/WS6_150212355/web/WEB-INF/web.xml</file>
         </group>
     </open-files>
 </project-private>
